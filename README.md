@@ -1,3 +1,4 @@
+
 Aquí tienes la **estructura general profesional** de un SaaS moderno (nivel startup real / ingeniero senior), pensada para:
 
 ✅ escalar
@@ -467,3 +468,7 @@ Si quieres, puedo explicarte el siguiente nivel (esto ya es arquitectura senior)
 🔥 cómo hacerlo deployable tipo startup
 
 y ahí tu proyecto sube de nivel brutal 🚀.
+
+# realestate-saas
+RealEstate SaaS es un sistema web para administrar negocios inmobiliarios.
+
